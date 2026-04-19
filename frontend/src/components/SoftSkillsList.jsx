@@ -5,11 +5,8 @@ const softSkills = [
   { id: 1, label: 'Effective Communication', icon: 'MessageCircle' },
   { id: 2, label: 'Team Collaboration', icon: 'Users' },
   { id: 3, label: 'Problem-Solving Mindset', icon: 'Lightbulb' },
-  { id: 4, label: 'Adaptability & Resilience', icon: 'RefreshCw' },
   { id: 5, label: 'Time Management', icon: 'Clock' },
-  { id: 6, label: 'Critical Thinking', icon: 'Brain' },
-  { id: 7, label: 'Attention to Detail', icon: 'Focus' },
-  { id: 8, label: 'Continuous Learning', icon: 'BookOpen' },
+
 ];
 
 const containerVariants = {
