@@ -4,21 +4,21 @@ import * as Icons from 'lucide-react';
 const contacts = [
   {
     id: 'phone',
-    label: '+20 100 000 0000',
+    label: '+20 100 397 5652',
     icon: 'Phone',
-    href: 'tel:+201000000000',
+    href: 'tel:+201003975652',
   },
   {
     id: 'email',
-    label: 'shahd.rabia@email.com',
+    label: 'shahdrabia12@gmail.com',
     icon: 'Mail',
-    href: 'mailto:shahd.rabia@email.com',
+    href: 'mailto:shahdrabia12@gmail.com',
   },
   {
     id: 'linkedin',
     label: 'LinkedIn',
     icon: 'Linkedin',
-    href: 'https://linkedin.com/in/shahd-rabia',
+    href: 'https://www.linkedin.com/in/shahdrabia/',
   },
 ];
 
