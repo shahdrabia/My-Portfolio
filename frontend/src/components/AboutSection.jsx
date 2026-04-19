@@ -5,24 +5,17 @@ import * as Icons from 'lucide-react';
 const bulletPoints = [
   {
     icon: 'GraduationCap',
-    text: 'Computer and AI student at Benha University, combining theoretical foundations with applied engineering.'
+    text: 'Computer and AI student at Benha University.'
   },
   {
     icon: 'Smartphone',
     text: 'Specialized in Flutter and mobile development — building cross-platform apps with clean architecture and polished UX.'
   },
   {
-    icon: 'Code2',
-    text: 'Competitive programmer with a track record in algorithmic problem-solving, data structures, and optimization challenges.'
-  },
-  {
     icon: 'Brain',
-    text: 'Passionate about the intersection of artificial intelligence and real-world product development.'
+    text: 'I’m passionate about building user-friendly, modern, and efficient applications that provide great experiences for end users .'
   },
-  {
-    icon: 'Layers',
-    text: 'Currently building end-to-end mobile solutions while deepening expertise in ML models and intelligent systems.'
-  }
+
 ];
 
 const containerVariants = {
