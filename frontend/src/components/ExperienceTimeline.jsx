@@ -5,48 +5,33 @@ const experiences = [
   {
     id: 1,
     title: 'Flutter Mobile Development Trainee',
-    organization: 'Digital Egypt Pioneers Initiative (DEPI)',
-    duration: 'Feb 2025 – Present',
+    organization: 'National Telecommunication Institute (NTI)',
+    duration: 'Aug - Sep 2025',
     type: 'Training',
     icon: 'Smartphone',
-    description: 'Intensive hands-on track covering Flutter SDK, Dart language, state management with Provider and BLoC, REST API integration, and publishing to Google Play.',
+    description: 'Intensive hands-on track covering Flutter SDK, Dart language, state management with Provider and BLoC and REST API integration.',
   },
+  
   {
     id: 2,
     title: 'Competitive Programming Participant',
     organization: 'ICPC – Benha University Chapter',
-    duration: 'Sep 2023 – Present',
+    duration: 'Sep 2023',
     type: 'Activity',
     icon: 'Code2',
-    description: 'Active member solving algorithmic problems on Codeforces and LeetCode; participated in regional ICPC qualifier rounds focusing on graph theory and dynamic programming.',
+    description: 'Active member solving  problems on Codeforces and LeetCode; participated in regional ICPC qualifier rounds focusing on graph theory and dynamic programming.',
   },
   {
-    id: 3,
-    title: 'AI & Machine Learning Foundations',
-    organization: 'Coursera – DeepLearning.AI',
-    duration: 'Jul 2024 – Oct 2024',
-    type: 'Course',
-    icon: 'BrainCircuit',
-    description: 'Completed specialization covering supervised learning, neural networks, CNNs, and sequence models using Python, NumPy, TensorFlow, and Keras.',
+    id: 1,
+    title: 'working with Freelance team',
+    organization: 'freelance',
+    duration: 'April - May 2026',
+    type: 'freelancer',
+    icon: 'Smartphone',
+    description: ' Collaborated with a freelance team to deliver real-world projects.',
   },
-  {
-    id: 4,
-    title: 'CS50x – Introduction to Computer Science',
-    organization: 'Harvard University (edX)',
-    duration: 'Jan 2024 – Apr 2024',
-    type: 'Course',
-    icon: 'GraduationCap',
-    description: 'Studied core CS fundamentals including algorithms, data structures, memory management in C, and web basics with Python, SQL, HTML, and JavaScript.',
-  },
-  {
-    id: 5,
-    title: 'Computer & AI Student',
-    organization: 'Benha University – Faculty of Computers & AI',
-    duration: 'Sep 2022 – Present',
-    type: 'Education',
-    icon: 'University',
-    description: 'Undergraduate student pursuing a degree in Computer and Artificial Intelligence, with coursework spanning algorithms, databases, software engineering, and AI fundamentals.',
-  },
+ 
+
 ];
 
 const typeColors = {
