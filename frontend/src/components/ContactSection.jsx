@@ -6,8 +6,8 @@ const contactItems = [
   {
     id: 'email',
     label: 'Email',
-    value: 'shahd.rabia@student.bu.edu.eg',
-    href: 'mailto:shahd.rabia@student.bu.edu.eg',
+    value: 'shahdrabia12@gmail.com',
+    href: 'mailto:shahdrabia12@gmail.com',
     icon: 'Mail',
     copyable: true,
     color: 'text-violet-400',
@@ -16,8 +16,8 @@ const contactItems = [
   {
     id: 'phone',
     label: 'Phone',
-    value: '+20 100 234 5678',
-    href: 'tel:+201002345678',
+    value: '+20 100 397 5652',
+    href: 'tel:+201003975652',
     icon: 'Phone',
     copyable: true,
     color: 'text-indigo-400',
@@ -26,8 +26,8 @@ const contactItems = [
   {
     id: 'linkedin',
     label: 'LinkedIn',
-    value: 'linkedin.com/in/shahd-rabia',
-    href: 'https://linkedin.com/in/shahd-rabia',
+    value: 'www.linkedin.com/in/shahdrabia',
+    href: 'https://www.linkedin.com/in/shahdrabia/',
     icon: 'Linkedin',
     copyable: false,
     color: 'text-violet-300',
