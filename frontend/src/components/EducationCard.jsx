@@ -6,8 +6,8 @@ const educationData = {
   universityName: 'Benha University',
   faculty: 'Faculty of Computers and Artificial Intelligence',
   level: 'Undergraduate Student',
-  startDate: 'Sep 2022',
-  endDate: 'Jun 2026',
+  startDate: 'Sep 2023',
+  endDate: 'Jun 2027',
   location: 'Benha, Egypt',
 };
 
