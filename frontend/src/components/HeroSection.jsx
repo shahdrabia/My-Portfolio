@@ -80,9 +80,13 @@ function HeroSection() {
           </div>
 
           <motion.div variants={itemVariants} className="mb-6">
-            <div className="w-20 h-20 rounded-full bg-gradient-to-br from-[#5D5FEF] to-[#8F67FF] flex items-center justify-center shadow-lg shadow-indigo-500/30">
-              <span className="text-white font-jakarta font-bold text-2xl">SR</span>
-            </div>
+            <div className="w-20 h-20 rounded-full overflow-hidden border-2 border-white/20 shadow-lg shadow-indigo-500/30">
+  <img
+    src="https://drive.google.com/file/d/1AXAodbxZuYkQAf2N4dGeZN1msWtKmVRC/view?usp=drive_link"
+    alt="Shahd Rabia"
+    className="w-full h-full object-cover"
+  />
+</div>
           </motion.div>
 
           <motion.h1
