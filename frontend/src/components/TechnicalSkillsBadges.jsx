@@ -10,7 +10,6 @@ const skillCategories = [
       { name: 'Python', icon: 'Terminal' },
       { name: 'Dart', icon: 'Zap' },
       { name: 'Java', icon: 'Coffee' },
-      { name: 'C', icon: 'FileCode' },
       { name: 'SQL', icon: 'Database' },
     ],
   },
@@ -29,13 +28,13 @@ const skillCategories = [
   {
     label: 'Concepts',
     icon: 'Lightbulb',
-    skills: [
-      { name: 'Data Structures', icon: 'Network' },
-      { name: 'Algorithms', icon: 'Cpu' },
-      { name: 'OOP', icon: 'Box' },
+    skills: [ 
       { name: 'State Management', icon: 'Activity' },
       { name: 'REST APIs', icon: 'Globe' },
       { name: 'UI/UX Design', icon: 'Palette' },
+      { name: 'Data Structures', icon: 'Network' },
+      { name: 'Algorithms', icon: 'Cpu' },
+      { name: 'OOP', icon: 'Box' },
     ],
   },
   {
@@ -45,8 +44,7 @@ const skillCategories = [
       { name: 'Codeforces', icon: 'BarChart2' },
       { name: 'LeetCode', icon: 'Star' },
       { name: 'Problem Solving', icon: 'Puzzle' },
-      { name: 'Graph Theory', icon: 'Share2' },
-      { name: 'Dynamic Programming', icon: 'TrendingUp' },
+    
     ],
   },
 ];
